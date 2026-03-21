@@ -1,30 +1,120 @@
-🚀 Janildo Caluête De Farias Júnior
+# 👨‍💻 Janildo Caluête De Farias Júnior (JOTA)
 
-Front-End Developer | React | JavaScript | UI Development
+**`Front-End Developer`**
 
-Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, JavaScript, HTML, CSS e Tailwind. Minha trajetória profissional é marcada pela disciplina, resolução de problemas e pensamento técnico, competências consolidadas durante minha expêriencia profissional na area da programação Front-end.
+[cite_start]Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, JavaScript, HTML, CSS e Tailwind[cite: 9, 15]. [cite_start]Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas, mentalidade consolidada durante minha atuação no Exército Brasileiro[cite: 16, 17, 18]. [cite_start]Atualmente, trabalho na **Ômega Comércio Exterior**, desenvolvendo sistemas logísticos robustos[cite: 19, 41, 42]. [cite_start]Sou graduando em Sistemas de Informação pela UNINASSAU[cite: 35, 67, 68].
 
-Atualmente, atuo na Ômega Comércio Exterior, onde participo do desenvolvimento de um sistema logístico robusto e escalável.
+<p align="left">
+    <a href="https://www.linkedin.com/in/janildocfariasjunior/">
+        <img 
+            alt="linkedin" 
+            title="Conecte-se no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:jjcalluete@gmail.com">
+        <img 
+            alt="email" 
+            title="Envie um e-mail" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/EuJotaj?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/EuJotaj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/EuJotaj?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/EuJotaj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-🛠️ Tecnologias e Habilidades
-* Linguagens e Frameworks: JavaScript , React , Angular.
-* Web Design: HTML5 & CSS3 , Tailwind CSS , UX/UI.
-* Ferramentas e Processos: Git & GitHub , APIs REST.
-* Funcionalidades: Desenvolvimento de interfaces responsivas , integração de APIs , geração automática de PDFs e XMLs e criação de formulários complexos.
+---
 
-💼 Experiência Profissional
-* Ômega Comércio Exterior | Desenvolvedor Front-End (Julho de 2025 – Presente).
-* Exército Brasileiro | Manutenção de Redes e Soldado de Comunicações (Março de 2024 – Janeiro de 2025).
+### 🤖 Linguagens e Tecnologias
 
-🎓 Formação Acadêmica
-* Bacharelado em Sistemas de Informação | UNINASSAU (Conclusão prevista para 2028).
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-🌐 Idiomas
-* Português: Nativo.
-* Inglês: Nível Profissional (Professional Working).
+<br/>
+<br/>
 
-📫 Contato
-* LinkedIn: janildocfariasjunior 
-* E-mail: jjcalluete@gmail.com 
+### 📊 Estatísticas
 
-Localização: Paulista, Pernambuco, Brasil 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EuJotaj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuJotaj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+
+</p>
