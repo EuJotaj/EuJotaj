@@ -2,7 +2,7 @@
 
 **`Front-End Developer`**
 
-[cite_start]Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, JavaScript, HTML, CSS e Tailwind[cite: 9, 15]. [cite_start]Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas, mentalidade consolidada durante minha atuação no Exército Brasileiro[cite: 16, 17, 18]. [cite_start]Atualmente, trabalho na **Ômega Comércio Exterior**, desenvolvendo sistemas logísticos robustos[cite: 19, 41, 42]. [cite_start]Sou graduando em Sistemas de Informação pela UNINASSAU[cite: 35, 67, 68].
+Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, Angular, JavaScript, HTML, CSS e Tailwind. Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas. Atualmente, trabalho na **Ômega Comércio Exterior**, desenvolvendo minhas habilidades de programação diariamente. Sou graduando em Sistemas de Informação pela UNINASSAU.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/janildocfariasjunior/">
