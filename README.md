@@ -61,6 +61,9 @@
   <a href="jjcalluete@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=jjcalluete@gmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://eujotaj.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PORTFOLIO&logo=twitter&label=&color=red&logoColor=&labelColor=&style=for-the-badge" height="34" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
