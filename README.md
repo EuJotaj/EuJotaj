@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, Angular, JavaScript, HTML, CSS e Tailwind. Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas. Atualmente, trabalho na Ômega Comércio Exterior, desenvolvendo minhas habilidades de programação diariamente. Sou graduando em Sistemas de Informação pela UNINASSAU.</p>
+<p align="left">Sou um Desenvolvedor Front-End focado em criar aplicações web modernas, performáticas e intuitivas utilizando tecnologias como React, Angular, JavaScript, HTML, CSS e Tailwind. Minha jornada na tecnologia é pautada pela disciplina e resolução de problemas. Atualmente, trabalhei na Ômega Comércio Exterior, onde desenvolvi minhas habilidades de programação diariamente. Sou graduando em Sistemas de Informação pela UNINASSAU.</p>
 
 ###
 
